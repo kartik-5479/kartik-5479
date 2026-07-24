@@ -1,36 +1,133 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;uThis+is+Kartik....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Booting+Developer+Profile...;Initializing+AI+Modules...;Loading+StoryScape+AI...;Loading+MealMetric...;Welcome+to+Kartik's+Terminal"/>
 </h1>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
-<p align="center"> <img src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif" alt="Coding" width="400"/> </p>
-
-<h2 align='center'>🎓 B.Tech Computer Science & Engineering Student</h2>
-<h3 align="center">Passionate about Artificial Intelligence and Problem Solving</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik-5479&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-5479" /> </p>
-
-- 🔭 I’m currently working on **AI VisionGuard – AI-Powered Object Detection & Tracking System**
-
-- 🌱 I’m currently learning **Advanced Python Machine Learning & Deep Learning Computer Vision (OpenCV, YOLO) Generative AI & LLMs Flask & Backend Development React.js Data Structures & Algorithms (DSA) Git & GitHub**
-
-- 👯 I’m looking to collaborate on **Open Source AI, Machine Learning & Web Development Projects**
-
-- 🤝 I’m looking for help with **Computer Vision, Deep Learning & Large Language Model (LLM) Projects**
-
-- 💬 Ask me about **Python Flask React.js JavaScript HTML & CSS Machine Learning OpenCV AI Projects Git & GitHub**
-
-- 📫 How to reach me **kartiknabha5479@gmail.com**
-
-- ⚡ Fun fact **I love turning real-world problems into AI-powered applications and I'm always exploring new technologies to build smarter solutions.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kartik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif" width="500">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h2 align="center">💻 Developer Terminal</h2>
 
+<table>
+<tr>
+
+<td width="35%" align="center">
+
+<img src="https://github.com/user-attachments/assets/91facb35-8c29-4e51-b903-f9774d16e8fd">
+
+</td>
+
+<td width="65%">
+
+<pre>
+╭──────────────────────────────────────────────╮
+│              SYSTEM INFORMATION              │
+╰──────────────────────────────────────────────╯
+
+👤 User.......... Kartik
+🐙 GitHub........ kartik-5479
+💻 OS............ Windows 10
+🧠 Kernel........ B.Tech Computer Science
+💡 Languages..... Python
+                 C++
+                 JavaScript
+🎨 Frontend...... HTML
+                 CSS
+                 React
+⚙ Backend....... Flask
+                 Streamlit
+🗄 Database...... SQLite
+                 MySQL
+🤖 AI Stack...... OpenCV
+                 TensorFlow
+                 Scikit-Learn
+                 YOLO
+🚀 Projects...... StoryScape AI
+                 MealMetric
+🎯 Focus......... Artificial Intelligence
+                 Machine Learning
+                 Computer Vision
+⚡ Status........ Building the Future...
+</pre>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 👨‍💻 About Me
+
+- 🎓 **B.Tech Computer Science & Engineering Student**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Computer Vision**
+- 🔭 Currently building **AI VisionGuard – AI Powered Object Detection & Tracking System**
+- 🌱 Learning **Deep Learning, YOLO, OpenCV, LLMs, React.js & Backend Development**
+- 🤝 Looking to collaborate on **AI, Machine Learning & Open Source Projects**
+- 💬 Ask me about **Python, Flask, JavaScript, AI, OpenCV & Machine Learning**
+- 📫 **kartiknabha5479@gmail.com**
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kartik-5479&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-5479&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=kartik-5479&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🧙 StoryScape AI | AI Powered Interactive Visual Novel Engine |
+| 🥗 MealMetric | AI Based Diet & Calorie Tracking System |
+| 🤖 Custom Personality Chatbot |  Chat with 10 unique AI personalities and generate AI-powered images |
+| 👁 AI Language Translator | Uses AI and NLP concepts to provide multilingual text translation & speech support |
+| 📚 BookVerse | A modern online book discovery and reading platform |
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,flask,mysql,sqlite,git,github,vscode,docker,linux,tensorflow&perline=8"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartik-5479&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/kartik-5479">
+<img src="https://img.shields.io/badge/GitHub-kartik--5479-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:kartiknabha5479@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-kartiknabha5479%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kartik-5479&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
