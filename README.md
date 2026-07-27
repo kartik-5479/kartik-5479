@@ -69,11 +69,12 @@
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 Github Stats
+[![Kartik's GitHub stats](https://github-stats-extended.vercel.app/api?username=kartik-5479)](https://github.com/stats-organization/github-stats-extended)
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=kartik-5479&theme=tokyonight&hide_border=true"/>
-</p>
+
+
+
 
 ---
 
