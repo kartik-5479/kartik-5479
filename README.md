@@ -70,11 +70,8 @@
 ---
 
 # 📊 Github Stats
+
 [![Kartik's GitHub stats](https://github-stats-extended.vercel.app/api?username=kartik-5479)](https://github.com/stats-organization/github-stats-extended)
-
-
-
-
 
 ---
 
@@ -84,7 +81,7 @@
 |---------|-------------|
 | 🧙 StoryScape AI | AI Powered Interactive Visual Novel Engine |
 | 🥗 MealMetric | AI Based Diet & Calorie Tracking System |
-| 🤖 Custom Personality Chatbot |  Chat with 10 unique AI personalities and generate AI-powered images |
+| 🤖 Custom Personality Chatbot | Chat with 10 unique AI personalities and generate AI-powered images |
 | 👁 AI Language Translator | Uses AI and NLP concepts to provide multilingual text translation & speech support |
 | 📚 BookVerse | A modern online book discovery and reading platform |
 
@@ -93,9 +90,12 @@
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,flask,mysql,sqlite,git,github,vscode,docker,linux,tensorflow&perline=8"/>
-</p>
 
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,flask,mysql,sqlite,git,github,vscode,docker,linux,tensorflow&perline=8"/>
+
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48"/>
+
+</p>
 ---
 
 # 🌐 Connect With Me
