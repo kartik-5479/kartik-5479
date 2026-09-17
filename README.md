@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Booting+Developer+Profile...;Initializing+AI+Modules...;Loading+StoryScape+AI...;Loading+MealMetric...;Welcome+to+Kartik's+Terminal"/>
 </h1>
-
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif" width="500">
 </p>
